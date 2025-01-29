@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc --build .",
+    "start": "npm run build -- --watch",
+    "dev": "node ./lib/index.js"
+  }
+}
