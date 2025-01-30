@@ -8,7 +8,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "node app/lib/index.js",
-    "build": "tsc -p ."
+    "build": "tsc -b"
   },
   "keywords": [],
   "author": "",

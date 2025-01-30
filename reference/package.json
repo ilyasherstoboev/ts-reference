@@ -7,6 +7,6 @@
   "type": "commonjs",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc -p ."
+    "build": "tsc -b"
   }
 }
